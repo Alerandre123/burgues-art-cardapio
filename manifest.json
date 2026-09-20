@@ -1,0 +1,9 @@
+{
+  "name": "Burgue's Art — Cardápio",
+  "short_name": "Burgue's Art",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#171411",
+  "theme_color": "#171411",
+  "icons": []
+}
